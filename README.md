@@ -1,24 +1,25 @@
 # esx_petroleo
 
-Tens de apanhar o petroleo e vender como a vida real!
+You have to get the Oil and then sell it!
 
 Itens
--Petroleo
--Petroleo Bruto
+-Petroleum
+-Petroleum Gross
 
-# Instalação
-1. Instala O Script
-3. Copie o projeto para a tua pasta de recursos do esx.
-4. Não se esqueça de importar o arquivo database.sql para o teu banco de dados.
-5. Adicione "start esx_petroleo" no teu arquivo `server.cfg`
+# Installation
+1. Install Script
+3. Copy the project to your esx resource folder.
+4. Do not forget to import the database.sql file into your database.
+5. Add "start esx_petroleum" to your file `server.cfg`
 
 
-# Recurso Necessário
+# Resource Required
 - [pNotify](https://github.com/ESX-Brasil/pNotify)
 
-# Criado por
+# Created by
 - [Código,Traduções - Jordann](https://github.com/jordann124)
 - [Quem Deu a Ideia - Tiper](https://discord.gg/eeQxhsd)
+
 # Discord
 
 [![Join Jordann Cofig | ESX](https://discordapp.com/api/guilds/584087495755563008/embed.png?style=banner2)](https://discord.gg/AkDrAuP)
